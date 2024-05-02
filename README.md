@@ -1,7 +1,7 @@
-# hatty_api
+# hatty-api
 
 ```
-curl https://sotayamashita.github.io/hatty_api/index.json
+curl https://autifyhq.github.io/hatty-api/index.json
 ```
 
 https://autify.com/news/hi-hatty
